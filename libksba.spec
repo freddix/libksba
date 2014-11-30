@@ -1,11 +1,11 @@
 Summary:	CMS and X.509 access library
 Name:		libksba
-Version:	1.3.1
+Version:	1.3.2
 Release:	1
 License:	LGPL v3+ or GPL v2+ (libraries), GPL v3+ (the rest)
 Group:		Libraries
 Source0:	ftp://ftp.gnupg.org/gcrypt/libksba/%{name}-%{version}.tar.bz2
-# Source0-md5:	9be95245fcfa9d56f56853078ef2650b
+# Source0-md5:	c3c9a66e22d87fe3ae59865250b8a09c
 URL:		http://www.gnupg.org/related_software/libksba/
 BuildRequires:	autoconf
 BuildRequires:	automake
